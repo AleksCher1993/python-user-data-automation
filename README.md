@@ -84,3 +84,7 @@ id,name,email,city
 2026-01-13 16:40:54,644 - INFO - Successfully wrote data to CSV file: data/report.csv
 2026-01-13 16:40:54,644 - INFO - Application finished successfully
 
+## Author
+
+Developed by [AleksBlack]
+
